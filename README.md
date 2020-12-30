@@ -9,15 +9,15 @@ Hundred-Year Farms refers to two small farm properties (each about 43 acres); on
 
 There are five basic types of agroforestry practices today in North America: windbreaks, alley cropping, silvopasture, riparian buffers, and forest farming. Alley cropping, which will be the method used on this farm, is the cultivation of crops between rows of trees.
 
-In general, strong wind-break trees will be planted along the upper-most ridges of the farm with the trees and crops that require more sunlight, warmth, and wind protection located progressively lower on the farm's south sloping land. The new trees will be a diverse mix that may include sugar maple, oak, poplar, birch, beech, hemlock, apple, and hazel, among others, arranged to allow for selective harvesting. Similiar to the trees, the crops that will be planted between the rows of trees will also be more diverse than in the past.
+In general, strong wind-break trees will be planted along the upper-most ridges of the farm with the trees and crops that require more sunlight, warmth, and wind protection located progressively lower on the farm's south sloping land. The new trees will be a diverse mix that may include sugar maple, oak, poplar, birch, beech, hemlock, apple, and hazel, among others, arranged to allow for selective harvesting. Similiar to the trees, the crops that will be planted between the rows of trees will also be more diverse than in the past.  
 
-Some of the reasons for adopting this farm practice are that it should:
+Some of the reasons for adopting this farm practice are listed below:
 
-- Diversify farm income: Higher value wood, fruit, or nuts can be harvested along with specialty vegetables and grain products that do not directly compete with agri-business.
+- Diversification of farm income: Higher value wood, fruit, or nuts can be harvested along with vegetables and specialty grain products that do not directly compete with agri-business.
   
-- Increase Productivity: Many plants grow better when provided with long days (south slope), but diffused light from tree shade in mid-afternoon. Rows of trees also reduce wind speed and create micro-climates that can further improve yield and quality of crops growing in the alleys.
+- Productivity: Many plants grow better when provided with long days (south slope), but diffused light from tree shade in mid-afternoon. Rows of trees also reduce wind speed and create micro-climates that can further improve yield and quality of crops growing in the alleys.
   
-- Increase Biodiversity: A diverse mix of plants and wildlife can be effective in the control of pests, disease, and fire risk. Biodiversity also makes the property more interesting to live on or visit, thereby increasing value of the underlying asset.
+- Biodiversity: A diverse mix of plants and wildlife can be effective in the control of pests, disease, and fire risk. Biodiversity also makes the property more interesting to live on or visit, thereby increasing value of the underlying asset.
   
 ![Site Overview](https://github.com/hundredyearfarms/HYF/blob/main/IFCSiteOverviewWithTreePlanting.png)
 
