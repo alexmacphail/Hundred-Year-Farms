@@ -39,7 +39,7 @@ By their nature, small farms produce a lot of waste biomass that must be managed
 - [Example Wood gasifier at Scotston Farm - Biomass Power Plant](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
   
 
-**Co-operatives**: Farming co-operatives were common on the Canadian prarie, for everything from grain elevators to the manufacture of farm equipment, up to the 1970s. While that is no longer the case, smart contracts and other new technologies could once again make co-operatives competitive in niche areas and help restore what had been an important means of farm and community development. This is an area we will continue to monitor.
+**Co-operatives**: Farming co-operatives were common on the Canadian prarie, for everything from grain elevators to the manufacture of farm equipment, up to the 1970s. While that is no longer the case, smart contracts and other new technologies could once again make co-operatives competitive in niche areas and help restore what had been an important means of farm and community development. 
 
 ## Owners
 
