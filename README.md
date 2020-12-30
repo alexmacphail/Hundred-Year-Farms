@@ -9,7 +9,7 @@ Hundred-Year Farms refers to two small farm properties (each about 43 acres); on
 
 There are five basic types of agroforestry practices today in North America: windbreaks, alley cropping, silvopasture, riparian buffers, and forest farming. Alley cropping, which will be the method used on this farm, is the cultivation of crops between rows of trees.
 
-In general, strong wind-break trees wi![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)ll be planted along the upper-most ridges of the farm with the trees and crops that require more sunlight, warmth, and wind protection located progressively lower on the farm's south sloping land. The new trees will be a diverse mix that may include sugar maple, oak, poplar, birch, beech, hemlock, apple, and hazel, among others, arranged to allow for selective harvesting. Similiar to the trees, the crops that will be planted between the rows of trees will also be more diverse than in the past.
+In general, strong wind-break trees will be planted along the upper-most ridges of the farm with the trees and crops that require more sunlight, warmth, and wind protection located progressively lower on the farm's south sloping land. The new trees will be a diverse mix that may include sugar maple, oak, poplar, birch, beech, hemlock, apple, and hazel, among others, arranged to allow for selective harvesting. Similiar to the trees, the crops that will be planted between the rows of trees will also be more diverse than in the past.
 
 Some of the reasons for adopting this farm practice are that it should:
 
