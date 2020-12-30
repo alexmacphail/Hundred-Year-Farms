@@ -29,7 +29,7 @@ The owners have an interest in the following management practices:
 
 **BIM (Building Information Management)**
 
-Building Information Management (BIM) tools are being used for design of the farm and its buildings, but with the eventual goal of using it to manage the farm's asset data over time (e.g. trees, soil conditions, crop yieds, buildings, infrastructure, ...) . While often associated with the design of buildings, industry is expanding the underlying BIM file system (IFC5) to include infrastructure and landscaping, making it relevant to small farm operations (especially if IFC5 is also used by local government for the surrounding municipal works). This 3D file system should prove useful to researchers studying, or modelling the performance of, agro-forestry systems.
+Building Information Management (BIM) tools are being used for design of the farm and its buildings, but with the eventual goal of using it to manage the farm's asset data over time (e.g. trees, soil conditions, crop yieds, buildings, infrastructure, ...) . While often associated with the design of buildings, industry is expanding the underlying BIM file system (IFC5) to include infrastructure and landscaping, making it relevant to small farm operations (especially if IFC5 is also used by local government for the surrounding municipal works). Apart from farm management, this 3D file system should prove useful to researchers studying, or modelling the performance of, agro-forestry systems.
 
 **Cogeneration of heat and power with carbon sinking**
 
