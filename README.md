@@ -19,7 +19,7 @@ Some of the reasons for adopting this farm practice are that it should:
   
 - Increase Biodiversity: A diverse mix of plants and wildlife can be effective in the control of pests, disease, and fire risk. Biodiversity also makes the property more interesting to live on or visit, thereby increasing value of the underlying asset.
   
-![Site Overview](https://github.com/hundredyearfarms/HYF/IFCSiteOverviewWithTreePlanting.png)
+![Site Overview](https://github.com/hundredyearfarms/HYF/blob/main/IFCSiteOverviewWithTreePlanting.png)
 
 <u>Image</u>: *Proposed new trees and pond laid over a sattelite image of the existing property (gradient lines show how the land slopes toward the south where the pond will be). A - erosion down the centre of this field is already present but should be controlled by the new rows of trees that follow field contours. B - this clear-cut woodlot, which is now a near mono-crop of spruce trees, will be diversified to many tree species. C - there will be relatively little change to this field apart from re-aligning the existing windbreak tree row so it follows natural contours and then adding a second row at the lowest and steepest part of the field. Proposed changes will be gradual and may take decades to complete.*
 
