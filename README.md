@@ -9,9 +9,9 @@ The name Hundred-Year Farms refers to two small farm properties (each about 43 a
 
 There are five basic types of agroforestry practices today in North America: windbreaks, alley cropping, silvopasture, riparian buffers, and forest farming. Alley cropping, which will be the method used on this farm, is the cultivation of crops between rows of trees.
 
-At this farm, strong wind-break trees will be planted along the upper-most ridges with the trees and crops that require more sunlight, warmth, and wind protection located progressively lower on the farm's south sloping land. The new trees will be a diverse mix that may include maple, oak, poplar, birch, hemlock, and apple, among others, with some arranged to allow for selective harvesting while some blocks will grow unmanaged. Similiar to the trees, the crops that will be planted between the rows of trees will also be more diverse than in the past.  Some reasons for the transition to this farm practice are listed below:
+At this farm, strong wind-break trees will be planted along the upper-most ridges with the trees and crops that require more sunlight, warmth, and wind protection located progressively lower on the farm's south sloping land. The new trees will be a diverse mix that may include maple, oak, poplar, birch, hemlock, and apple, among others, with some arranged to allow for selective harvesting while some blocks will grow unmanaged. Similiar to the trees, the crops that will be planted between the rows of trees will also be more diverse than in the past.  Some reasons for the planned transition to this farm practice are listed below:
 
-- Diversification of farm income: Higher value wood, fruit, or nuts can be harvested along with vegetables and specialty grain products that do not directly compete with agri-business.
+- Diversification of farm income: Higher value wood, fruit, or nuts can be harvested along with vegetables and grains.
   
 - Productivity: Many plants grow better when provided with long days (south slope), but diffused light from tree shade in mid-afternoon. Trees also reduce wind speed and create micro-climates that can further improve crop yield and quality.
   
