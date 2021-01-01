@@ -1,6 +1,6 @@
 # HUNDRED-YEAR FARMS
 
-The name Hundred-Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. Our long-term plan for the island farm is to make a gradual transition from conventional agriculture to Agroforestry. Agroforesty involves the planting of varied crops, including grains, fruits, or vegetables, among rows of trees. Crop acreage on the farm will not change, however, food production, habitat, soil, and water quality, when measured as a whole, are expected to improve and be more resilent to climate change. We also expect this transition will lead to a property that is more interesting, more enjoyable to visit, and more likely to remain profitable for the next 100 years.
+The name Hundred-Year Farms refers to two small farm properties (each about 43 acres); one on Prince Edward Island and the other in Manitoba. Our long-term plan for the island farm is to make a gradual transition from conventional agriculture to Agroforestry. Agroforesty involves the planting of varied crops, including grains, fruits, or vegetables, among rows of trees. Crop acreage on the farm will not change, however, food production, habitat, soil, and water quality, when measured as a whole, are expected to be more resilent to climate change. We also expect this transition will lead to a property that is more interesting, more enjoyable to visit, and more likely to remain profitable for the next 100 years.
 
 - [What is agroforestry?](https://www.aftaweb.org/about/what-is-agroforestry.html)
 - [Agroforestry - Agriculture and Agri-Food Canada (AAFC)](https://www.agr.gc.ca/eng/agriculture-and-climate/agricultural-practices/agroforestry/?id=1177431400694))
@@ -31,10 +31,10 @@ Building Information Management (BIM) tools are being used for design of the far
 
 **Cogeneration of heat and power with carbon sinking**
 
-By their nature, active small farms produce a lot of waste biomass that must be managed. Through gassification this debris can be used to produce heat (e.g. for greenhouses), electricity, and with some designs, solid carbon as either a soil ammendment or product. Carbon-sinking small farms could be used to offset the carbon released by agri-business, thus improving small farm economics while making the agricultural sector, as a whole, more carbon neutral.
+By their nature, active small farms can produce a lot of waste biomass that must be managed. Through gassification this debris can be used to produce heat (e.g. for greenhouses), electricity, and with some designs, solid carbon as either a soil ammendment or product. Carbon-sinking small farms could be used to offset the carbon released by agri-business, thus improving small farm economics while making the agricultural sector, as a whole, more carbon neutral.
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
-- [Example Wood gasifier at Scotston Farm - Biomass Power Plant](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
+- [Example Wood gasifier (without carbon sinking) at Scotston Farm - Biomass Power Plant](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
   
 
 **Co-operatives**: Farming co-operatives were common on the Canadian prarie, for everything from grain elevators to the manufacture of farm equipment, up to the 1970s. While that is no longer the case, smart contracts (e.g. Ethereum) and other new technologies could once again make co-operatives competitive in certain areas and help restore what had been an important means of farm and community development. This is an active area of study.
