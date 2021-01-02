@@ -34,8 +34,6 @@ Building Information Management (BIM) tools are being used for design of the far
 By their nature, active small farms can produce a lot of waste biomass that must be managed. Through gassification this debris can be used to produce heat (e.g. for greenhouses), electricity, and with some designs, solid carbon as either a soil ammendment or product. Carbon-sinking small farms could be used to offset the carbon released by agri-business, thus improving small farm economics while making the agricultural sector, as a whole, more carbon neutral.
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
-- [Example Wood Gasifier (without carbon sinking) at Scotston Farm - Biomass Power Plant](https://www.youtube.com/watch?v=i9xmWJ4hAGs)
-  
 
 **Co-operatives**: Farming co-operatives were common on the Canadian prarie, for everything from grain elevators to the manufacture of farm equipment, up to about the 1970s. While that is no longer the case, smart contracts (e.g. Ethereum) and other new technologies potentially could once again make co-operatives competitive in certain areas and help restore what had been an important means of farm and community development. This is a topic of ongoing study.
 
