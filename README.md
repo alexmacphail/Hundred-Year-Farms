@@ -31,7 +31,7 @@ Building Information Management (BIM) tools are being used for design of the far
 
 **Cogeneration of heat and power with carbon sinking**
 
-By their nature, active small farms can produce a lot of waste biomass that must be managed. Through gassification this debris can be used to produce heat (e.g. for greenhouses), electricity, and with some designs, solid carbon as either a soil ammendment or product. Carbon-sinking agroforestry could be used to offset the carbon released by agri-business, thus improving small farm economics while making the agricultural sector, as a whole, more carbon neutral.
+Small farm agroforestry produces waste biomass that must be managed. Through gassification this debris can be used to produce heat (e.g. for greenhouses), electricity, and with some designs, solid carbon as either a soil ammendment or product. Carbon-sinking agroforestry could be used to offset the carbon released by agri-business, thus improving small farm economics while making the agricultural sector, as a whole, more carbon neutral.
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
 
