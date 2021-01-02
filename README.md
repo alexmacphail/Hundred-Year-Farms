@@ -15,13 +15,7 @@ At this farm, strong wind-break trees will be planted along the upper-most ridge
   
 - Productivity: Many plants grow better when provided with long days (south slope), but diffused light from tree shade in mid-afternoon. Trees also reduce wind speed and create micro-climates that can further improve crop yield and quality.
   
-- Biodiversity: A diverse mix of plants and wildlife can be effective in the control of pests, disease, and fire risk. Biodiversity also makes the property more interesting to live on or visit, thereby increasing value of the underlying asset.
-  
-![Site Overview](https://github.com/hundredyearfarms/HYF/blob/main/IFCSite-FarmProposedTrees.png)
-
-![Site Overview](https://raw.githubusercontent.com/hundredyearfarms/HYF/main/IFCSite-FarmProposedTrees.png)
-
-<img src="https://raw.githubusercontent.com/hundredyearfarms/HYF/main/IFCSite-FarmProposedTrees.png" alt="hi" class="inline"/>
+- Biodiversity: A diverse mix of plants and wildlife can be effective in the control of pests, disease, and fire risk. Biodiversity also makes the property more interesting to live on or visit, thereby increasing value of the underlying asset. 
 
 <img src="https://github.com/hundredyearfarms/HYF/blob/main/IFCSite-FarmProposedTrees.png"/>
 
