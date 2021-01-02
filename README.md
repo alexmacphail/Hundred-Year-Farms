@@ -23,7 +23,7 @@ At this farm, strong wind-break trees will be planted along the upper-most ridge
 
 ## Management
 
-The owners plan to develop these methods for managing their agro-foresty practice.
+The owners plan to develop these methods for managing their agroforesty practice.
 
 **BIM (Building Information Management)**
 
