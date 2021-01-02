@@ -21,6 +21,8 @@ At this farm, strong wind-break trees will be planted along the upper-most ridge
 
 ![Site Overview](https://raw.githubusercontent.com/hundredyearfarms/HYF/main/IFCSite-FarmProposedTrees.png)
 
+<img src="https://raw.githubusercontent.com/hundredyearfarms/HYF/main/IFCSite-FarmProposedTrees.png" alt="hi" class="inline"/>
+
 <u>Image</u>: *Proposed new trees and rain-water pond laid over a sattelite image of the existing property (gradient lines show how the land slopes toward the south where surface run-off water collects). A - water erosion down the centre of this field is already evident, but can be controlled by the new rows of trees that follow field contours. B - this prior clear-cut, which is now a near mono-crop of spruce trees, will be diversified to a range of native tree species. C - there will be relatively little change to this field apart from re-aligning the existing windbreak so it follows natural contours and then adding a second row at the lowest and steepest part of the field. D - Owner's home.  All these proposed changes will be gradual and may take decades to complete.*
 
 ## Management
