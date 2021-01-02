@@ -23,7 +23,7 @@ At this farm, strong wind-break trees will be planted along the upper-most ridge
 
 ## Management
 
-The owners have an interest in the following methods for managing that will help the farm practice be more cost effective:
+The owners have an interest in the following methods for managing the farm practice:
 
 **BIM (Building Information Management)**
 
