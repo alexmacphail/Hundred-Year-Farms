@@ -35,7 +35,7 @@ By their nature, active small farms can produce a lot of waste biomass that must
 
 - [Agroforestry for Biomass Production - Benefiting Canadians](https://www.aftaweb.org/latest-newsletter/temporate-agroforester/97-2008-vol-17/april-no-1/74-agroforestry-for-biomass-production-benefiting-canadians.html)
 
-**Co-operatives**: Farming co-operatives were common on the Canadian prarie, for everything from grain elevators to the manufacture of farm equipment, up to about the 1970s. While that is no longer the case, smart contracts (e.g. Ethereum) and other new technologies that are changing supply chains could once again make co-operatives competitive in certain areas and help restore what had been an important means of farm and community development. This is a topic of ongoing study.
+**Co-operatives**: Farming co-operatives were common on the Canadian prarie, for everything from grain elevators to the manufacture of farm equipment, up to about the 1970s. While that is no longer the case, smart contracts (e.g. Ethereum), and the other new technologies that are reorganizing supply chains, could once again make co-operatives competitive in certain areas and help restore what had been an important means of farm and community development. This is a topic of ongoing study.
 
 ## Owners
 
