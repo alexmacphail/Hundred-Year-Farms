@@ -5,7 +5,7 @@ The name Hundred-Year Farms refers to two small farm properties (each about 43 a
 - [What is agroforestry?](https://www.aftaweb.org/about/what-is-agroforestry.html)
 - [Agroforestry - Agriculture and Agri-Food Canada (AAFC)](https://www.agr.gc.ca/eng/agriculture-and-climate/agricultural-practices/agroforestry/?id=1177431400694))
 
-## Agroforestry Practice
+## Farm Practice (Agroforestry)
 
 There are five basic types of agroforestry practices today in North America: windbreaks, alley cropping, silvopasture, riparian buffers, and forest farming. Alley cropping, which will be the method used on this farm, is the cultivation of crops between rows of trees.
 
@@ -23,7 +23,7 @@ At this farm, strong wind-break trees will be planted along the upper-most ridge
 
 ## Management
 
-The owners have an interest in the following methods for managing agro-foresty:
+The owners have an interest in the methods for managing agro-foresty outlined below.
 
 **BIM (Building Information Management)**
 
